@@ -1,2 +1,14 @@
-# relatorio-de-incidente-ddos-attack
-Relatório de incidente fictício baseado em um ataque DDoS com ICMP Flood, estruturado com o framework NIST CSF
+# 🔐 Relatório de Incidente – Ataque DDoS (ICMP Flood)
+
+Este repositório contém um relatório técnico de resposta a incidente, baseado em um cenário fictício de ataque DDoS do tipo ICMP Flood.  
+O documento foi desenvolvido como parte do programa Google Cybersecurity Professional Certificate, utilizando o framework NIST CSF.
+
+## 🧾 Estrutura do relatório:
+- Resumo
+- Identificar
+- Proteger
+- Detectar
+- Responder
+- Recuperar
+
+📄 Acesse o relatório completo em PDF: [relatorio-icmp-flood.pdf](relatorio-icmp-flood.pdf)
